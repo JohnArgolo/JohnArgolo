@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<P>
+ My namy is John Willian, I'm from Bahia, BR and I'm currently studying Systems Development at Senai( National Industrial Appprenticeship Service). 
+  
+ I'm learning Web Development, for now. 
+ 
+</P>
+
 <!--
 **JohnArgolo/JohnArgolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
